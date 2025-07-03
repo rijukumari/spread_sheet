@@ -1,3 +1,25 @@
+---
+
+## 📄 Assignment Specific Instructions
+
+A detailed guide for the Inscript React Intern Assignment — including setup steps, trade-offs, folder structure, and submission links — is available separately in:
+
+👉 [`README.assignment.md`](./README.assignment.md)
+
+Please refer to that file for everything related to the assignment submission.
+
+---
+## 📄 Assignment Specific Instructions
+
+A detailed guide for the Inscript React Intern Assignment — including setup steps, trade-offs, folder structure, and submission links — is available separately in:
+
+👉 [`README.assignment.md`](./README.assignment.md)
+
+Please refer to that file for everything related to the assignment submission.
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
